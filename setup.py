@@ -1,8 +1,8 @@
 from distutils.core import setup
 
 setup(
-  name = 'topsis',
-  packages = ['topsis'],
+  name = 'topsis_v1',
+  packages = ['topsis_v1'],
   version = '0.1',
   license='MIT', 
   description = 'Calculates the topsis score from all int and float columns in data and returns a dictionary containing ranks and topsis_scores of all rows.',
