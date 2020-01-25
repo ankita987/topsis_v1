@@ -1,5 +1,5 @@
 # Multiple Criteria Decision Making using TOPSIS
- Calculates the topsis score from all int and float columns in data and ranks the gives ranks of rows in order of the score.
+ Calculates the topsis score from all int and float columns in data and gives the ranks of rows in order of topsis score.
 #### Inputs
 
 * ```"FileName.csv"``` - name of file containing input data
