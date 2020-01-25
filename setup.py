@@ -7,7 +7,6 @@ setup(
   license='MIT', 
   description = 'Calculates the topsis score from all int and float columns in data and returns a dictionary containing ranks and topsis_scores of all rows.',
   author = 'Ankita',
-  author_email = 'ankitauppal99@gmail.com',
   url = 'https://github.com/ankita987/topsis_v1',
   download_url = 'https://github.com/ankita987/topsis_v1/archive/v_01.tar.gz',
   keywords = ['TOPSIS'],
